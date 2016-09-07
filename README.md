@@ -1,2 +1,2 @@
-# w2w
-What 2 Weather
+# Miluna
+The Biluna mobile application
